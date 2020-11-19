@@ -1483,15 +1483,6 @@ const data = {
   },
   'esnext.math.fscale': {
   },
-  // TODO: Remove from `core-js@4`
-  'esnext.math.iaddh': {
-  },
-  // TODO: Remove from `core-js@4`
-  'esnext.math.imulh': {
-  },
-  // TODO: Remove from `core-js@4`
-  'esnext.math.isubh': {
-  },
   'esnext.math.rad-per-deg': {
   },
   'esnext.math.radians': {
@@ -1501,9 +1492,6 @@ const data = {
   'esnext.math.seeded-prng': {
   },
   'esnext.math.signbit': {
-  },
-  // TODO: Remove from `core-js@4`
-  'esnext.math.umulh': {
   },
   'esnext.number.from-string': {
   },
