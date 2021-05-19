@@ -1647,7 +1647,7 @@ const data = {
     safari: '1.0',
     rhino: '1.7.13',
   },
-  'web.url': {
+  'web.url.constructor': {
     chrome: '67',
     firefox: '57',
     node: '10.0',
@@ -1659,7 +1659,7 @@ const data = {
     node: '10.0',
     safari: '14.0',
   },
-  'web.url-search-params': {
+  'web.url-search-params.constructor': {
     chrome: '67',
     firefox: '57',
     node: '10.0',
